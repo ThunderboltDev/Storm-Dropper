@@ -1,6 +1,8 @@
 # Storm-Dropper
 Storm Dropper is a EXE Dropper Made in C# 
 
+Great For Adding Multiple Stealers and rats!
+
 ## Features
 1. Anti Tria.ge/Virustotal
 2. Anti Debug
