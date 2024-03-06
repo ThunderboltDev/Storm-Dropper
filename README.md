@@ -12,7 +12,8 @@ Storm Dropper is a EXE Dropper Made in C#
 1. Add EXE's to exclusions
 2. Disable Defender
 3. Report Code Errors To You VIA Telegram
-   
+4. Self Delete After Dropping EXE's
+5.  
 ## How To Use
 Download the Code as a ZIP File and once you open the sln project go to program.cs and then go down to till you see the part 
 
